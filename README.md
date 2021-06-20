@@ -44,5 +44,5 @@ func inputN(p *gacha.Player) int {
 ## How to install
 
 ```
-go get Github.com/TeppeiSudo/gacha@v0.0.1
+go get github.com/TeppeiSudo/gacha@v0.0.1
 ```
